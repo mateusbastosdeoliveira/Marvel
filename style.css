@@ -1,0 +1,153 @@
+#cf {
+
+    background-image: url(200w.webp);
+    height: 100vh;
+overflow: hidden;
+
+
+}
+
+#lc{
+
+height: 100%;
+
+
+
+}
+
+.personagens {
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+    padding: 5px;
+    transition: all linear 0.9s;
+    box-shadow: white 5px;
+}
+
+.personagens:hover {
+    border-radius: 200px;
+    border: solid rgb(33, 33, 227) 1px;
+
+
+
+    transition: all linear 0.9s;
+}
+
+
+#teladepersonagens {
+    text-align: center;
+    color: red;
+
+
+
+}
+
+
+
+#av {
+    height: 100%;
+    width: 100%;
+}
+
+
+
+
+
+.vai-hulk {
+    background-image: url(Hulk-Desktop-Wallpaper-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    transition: all linear 0.7s;
+    border-radius: 50px;
+
+}
+
+.vai-spider {
+    background-image: url(troca-spider-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    transition: all linear 1s;
+    transition: all linear 0.7s;
+    border-radius: 200px;
+}
+
+.vai-arqueiro {
+    background-image: url(troca-arqueiro-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    transition: all linear 1s;
+    transition: all linear 0.7s;
+    border-radius: 100px;
+}
+
+.vai-escarlate {
+    background-image: url(troca-escarlate-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    transition: all linear 1s;
+    transition: all linear 0.7s;
+    border-radius: 100px;
+}
+
+
+.vai-formiga {
+    background-image: url(troca-formiga-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    transition: all linear 1s;
+    transition: all linear 0.7s;
+    border-radius: 100px;
+}
+
+.vai-loki {
+    background-image: url(troca-loki-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    transition: all linear 1s;
+    transition: all linear 0.7s;
+    border-radius: 100px;
+}
+
+.vai-mercurio {
+    background-image: url(troca-mercurio-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    transition: all linear 1s;
+    transition: all linear 0.7s;
+    border-radius: 100px;
+
+}
+
+.vai-venom {
+    background-image: url(troca-venom-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    transition: all linear 1s;
+    transition: all linear 0.7s;
+    border-radius: 100px;
+
+
+}
+
+#thanos {
+    border-radius: 100px;
+   
+   width: 100%;
+
+
+ 
+ 
+   
+
+}
+
+#div-foto-subs{
+
+
+border-radius: 100px;
+}
+
+#dthanos{
+
+    height: 100vh;
+}
